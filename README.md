@@ -1,4 +1,4 @@
-# starwars
+# starwars.json
 
 1 -> female
 
