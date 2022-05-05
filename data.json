@@ -5,7 +5,7 @@
 "link":"https://www.starwars.com/databank/r2-d2",
 "movies": ["Star Wars: A New Hope", "Star Wars: The Empire Strikes Back", "Star Wars: Return of the Jedi", "Star Wars: The Phantom Menace", "Star Wars: Attack of the Clones", "Star Wars: Revenge of the Sith", "Star Wars: The Force Awakens", "Rogue One: A Star Wars Story", "Star Wars: The Last Jedi", "Star Wars: The Rise of Skywalker", "Star Wars Rebels", "Star Wars: The Clone Wars", "The Mandalorian, The Book of Boba Fett"],
 "gender": 3,
-"especie": "droid"
+"species": "droid"
 },
 {
 "name": "C-3PO",
@@ -13,7 +13,7 @@
 "link":"https://www.starwars.com/databank/c-3po",
 "movies": ["Star Wars: A New Hope", "Star Wars: The Empire Strikes Back", "Star Wars: Return of the Jedi", "Star Wars: The Phantom Menace", "Star Wars: Attack of the Clones", "Star Wars: Revenge of the Sith", "Star Wars: The Force Awakens", "Rogue One: A Star Wars Story", "Star Wars: The Last Jedi", "Star Wars: The Rise of Skywalker", "Star Wars Rebels", "Star Wars: The Clone Wars"],
 "gender": 3,
-"especie": "droid"
+"species": "droid"
 },
 {
 "name": "Darth Vader",
