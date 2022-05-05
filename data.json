@@ -317,7 +317,7 @@
 "url":"https://starwars.fandom.com/wiki/Brea_Tonnika",
 "movies": ["Star Wars: A New Hope"],
 "gender": 1,
-"species": "human"
+"species": "kiffar"
 },
 {
 "name": "Vanden Willard",
@@ -333,6 +333,6 @@
 "url":"https://starwars.fandom.com/wiki/Senni_Tonnika",
 "movies": ["Star Wars: A New Hope"],
 "gender": 1,
-"species": "human"
+"species": "kiffar"
 },
 ]
