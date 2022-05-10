@@ -1,338 +1,402 @@
-
 {
-"name": "R2-D2",
-"img": "https://lumiere-a.akamaihd.net/v1/images/r2-d2-main_f315b094.jpeg?region=273%2C0%2C951%2C536&width=768",
-"link":"https://www.starwars.com/databank/r2-d2",
-"movies": ["Star Wars: A New Hope", "Star Wars: The Empire Strikes Back", "Star Wars: Return of the Jedi", "Star Wars: The Phantom Menace", "Star Wars: Attack of the Clones", "Star Wars: Revenge of the Sith", "Star Wars: The Force Awakens", "Rogue One: A Star Wars Story", "Star Wars: The Last Jedi", "Star Wars: The Rise of Skywalker", "Star Wars Rebels", "Star Wars: The Clone Wars", "The Mandalorian, The Book of Boba Fett"],
-"gender": 3,
-"species": "droid"
+    "name": "R2-D2",
+    "img": "https://lumiere-a.akamaihd.net/v1/images/r2-d2-main_f315b094.jpeg?region=273%2C0%2C951%2C536&width=768",
+    "link": "https://www.starwars.com/databank/r2-d2",
+    "movies": [
+        "Star Wars: A New Hope",
+        "Star Wars: The Empire Strikes Back",
+        "Star Wars: Return of the Jedi",
+        "Star Wars: The Phantom Menace",
+        "Star Wars: Attack of the Clones",
+        "Star Wars: Revenge of the Sith",
+        "Star Wars: The Force Awakens",
+        "Rogue One: A Star Wars Story",
+        "Star Wars: The Last Jedi",
+        "Star Wars: The Rise of Skywalker",
+        "Star Wars Rebels",
+        "Star Wars: The Clone Wars",
+        "The Mandalorian, The Book of Boba Fett"
+    ],
+    "gender": 3,
+    "species": "droid"
 },
 {
-"name": "C-3PO",
-"img": "https://lumiere-a.akamaihd.net/v1/images/c-3po-main_417a2902.jpeg?region=176%2C0%2C951%2C536&width=768",
-"link":"https://www.starwars.com/databank/c-3po",
-"movies": ["Star Wars: A New Hope", "Star Wars: The Empire Strikes Back", "Star Wars: Return of the Jedi", "Star Wars: The Phantom Menace", "Star Wars: Attack of the Clones", "Star Wars: Revenge of the Sith", "Star Wars: The Force Awakens", "Rogue One: A Star Wars Story", "Star Wars: The Last Jedi", "Star Wars: The Rise of Skywalker", "Star Wars Rebels", "Star Wars: The Clone Wars"],
-"gender": 3,
-"species": "droid"
+    "name": "C-3PO",
+    "img": "https://lumiere-a.akamaihd.net/v1/images/c-3po-main_417a2902.jpeg?region=176%2C0%2C951%2C536&width=768",
+    "link": "https://www.starwars.com/databank/c-3po",
+    "movies": [
+        "Star Wars: A New Hope",
+        "Star Wars: The Empire Strikes Back",
+        "Star Wars: Return of the Jedi",
+        "Star Wars: The Phantom Menace",
+        "Star Wars: Attack of the Clones",
+        "Star Wars: Revenge of the Sith",
+        "Star Wars: The Force Awakens",
+        "Rogue One: A Star Wars Story",
+        "Star Wars: The Last Jedi",
+        "Star Wars: The Rise of Skywalker",
+        "Star Wars Rebels",
+        "Star Wars: The Clone Wars"
+    ],
+    "gender": 3,
+    "species": "droid"
 },
 {
-"name": "Darth Vader",
-"img": "https://lumiere-a.akamaihd.net/v1/images/Darth-Vader_6bda9114.jpeg?region=0%2C23%2C1400%2C785&width=768",
-"link":"https://www.starwars.com/databank/darth-vader",
-"movies": ["Star Wars: A New Hope", "Star Wars: The Empire Strikes Back", "Star Wars: Return of the Jedi", "Star Wars: Revenge of the Sith", "Rogue One: A Star Wars Story", "Star Wars Rebels"],
-"gender": 2,
-"species": "human"
+    "name": "Darth Vader",
+    "img": "https://lumiere-a.akamaihd.net/v1/images/Darth-Vader_6bda9114.jpeg?region=0%2C23%2C1400%2C785&width=768",
+    "link": "https://www.starwars.com/databank/darth-vader",
+    "movies": ["Star Wars: A New Hope", "Star Wars: The Empire Strikes Back", "Star Wars: Return of the Jedi", "Star Wars: Revenge of the Sith", "Rogue One: A Star Wars Story", "Star Wars Rebels"],
+    "gender": 2,
+    "species": "human"
 },
 {
-"name": "Leia Organa",
-"img": "https://areajugones.sport.es/wp-content/uploads/2020/01/leia-2.jpg",
-"link":"https://www.starwars.com/databank/leia-organa",
-"movies": ["Star Wars: A New Hope", "Star Wars: The Empire Strikes Back", "Star Wars: Return of the Jedi", "Star Wars: Revenge of the Sith", "Star Wars: The Force Awakens", "Rogue One: A Star Wars Story", "Star Wars: The Last Jedi, Star Wars Rebels", "Star Wars Resistance"],
-"gender": 1,
-"species": "human"
+    "name": "Leia Organa",
+    "img": "https://areajugones.sport.es/wp-content/uploads/2020/01/leia-2.jpg",
+    "link": "https://www.starwars.com/databank/leia-organa",
+    "movies": [
+        "Star Wars: A New Hope",
+        "Star Wars: The Empire Strikes Back",
+        "Star Wars: Return of the Jedi",
+        "Star Wars: Revenge of the Sith",
+        "Star Wars: The Force Awakens",
+        "Rogue One: A Star Wars Story",
+        "Star Wars: The Last Jedi, Star Wars Rebels",
+        "Star Wars Resistance"
+    ],
+    "gender": 1,
+    "species": "human"
 },
 {
-"name": "Luke Skywalker",
-"img": "https://cinematicos.net/wp-content/uploads/l-intro-1634662920.jpg",
-"link":"https://www.starwars.com/databank/luke-skywalker",
-"movies": ["Star Wars: A New Hope", "Star Wars: The Empire Strikes Back", "Star Wars: Return of the Jedi", "Star Wars: Revenge of the Sith", "Star Wars: The Force Awakens", "Star Wars: The Last Jedi", "Star Wars: The Rise of Skywalker", "Star Wars Rebels", "The Mandalorian", "The Book of Boba Fett"],
-"gender": 2,
-"species": "human"
+    "name": "Luke Skywalker",
+    "img": "https://cinematicos.net/wp-content/uploads/l-intro-1634662920.jpg",
+    "link": "https://www.starwars.com/databank/luke-skywalker",
+    "movies": [
+        "Star Wars: A New Hope",
+        "Star Wars: The Empire Strikes Back",
+        "Star Wars: Return of the Jedi",
+        "Star Wars: Revenge of the Sith",
+        "Star Wars: The Force Awakens",
+        "Star Wars: The Last Jedi",
+        "Star Wars: The Rise of Skywalker",
+        "Star Wars Rebels",
+        "The Mandalorian",
+        "The Book of Boba Fett"
+    ],
+    "gender": 2,
+    "species": "human"
 },
 {
-"name": "Obi Wan Kenobi",
-"img": "https://i0.wp.com/hipertextual.com/wp-content/uploads/2019/08/hipertextual-se-confirma-serie-obi-wan-kenobi-con-ewan-mcgregor-disney-2019892534-scaled.jpg?fit=2560%2C1707&ssl=1",
-"link":"https://www.starwars.com/databank/obi-wan-kenobi",
-"movies": ["Star Wars: A New Hope", "Star Wars: The Empire Strikes Back", "Star Wars: Return of the Jedi", "Star Wars: The Phantom Menace", "Star Wars: Attack of the Clones", "Star Wars: Revenge of the Sith", "Star Wars Rebels", "Star Wars: The Clone Wars"],
-"gender": 2,
-"species": "human"
+    "name": "Obi Wan Kenobi",
+    "img": "https://i0.wp.com/hipertextual.com/wp-content/uploads/2019/08/hipertextual-se-confirma-serie-obi-wan-kenobi-con-ewan-mcgregor-disney-2019892534-scaled.jpg?fit=2560%2C1707&ssl=1",
+    "link": "https://www.starwars.com/databank/obi-wan-kenobi",
+    "movies": [
+        "Star Wars: A New Hope",
+        "Star Wars: The Empire Strikes Back",
+        "Star Wars: Return of the Jedi",
+        "Star Wars: The Phantom Menace",
+        "Star Wars: Attack of the Clones",
+        "Star Wars: Revenge of the Sith",
+        "Star Wars Rebels",
+        "Star Wars: The Clone Wars"
+    ],
+    "gender": 2,
+    "species": "human"
 },
 {
-"name": "Han Solo",
-"img": "https://im.ziffdavisinternational.com/ign_es/screenshot/default/han-solo-texto_n923.jpg",
-"link":"https://www.starwars.com/databank/han-solo",
-"movies": ["Star Wars: A New Hope", "Star Wars: The Empire Strikes Back", "Star Wars: Return of the Jedi", "Star Wars: The Force Awakens", "Solo: A Star Wars Story", "Star Wars: The Rise of Skywalker"],
-"gender": 2,
-"species": "human"
+    "name": "Han Solo",
+    "img": "https://im.ziffdavisinternational.com/ign_es/screenshot/default/han-solo-texto_n923.jpg",
+    "link": "https://www.starwars.com/databank/han-solo",
+    "movies": ["Star Wars: A New Hope", "Star Wars: The Empire Strikes Back", "Star Wars: Return of the Jedi", "Star Wars: The Force Awakens", "Solo: A Star Wars Story", "Star Wars: The Rise of Skywalker"],
+    "gender": 2,
+    "species": "human"
 },
 {
-"name": "Chewbacca",
-"img": "https://www.latercera.com/resizer/N1271wd5Pm3fAYkW-NJiuq3bhrs=/900x600/smart/arc-anglerfish-arc2-prod-copesa.s3.amazonaws.com/public/5UKNQBDP6VD6FMYCFWXSMHS73U.jpg",
-"link":"https://www.starwars.com/databank/chewbacca",
-"movies": ["Star Wars: A New Hope", "Star Wars: The Empire Strikes Back", "Star Wars: Return of the Jedi", "Star Wars: Revenge of the Sith", "Star Wars: The Force Awakens", "Star Wars: The Last Jedi", "Solo: A Star Wars Story", "Star Wars: The Rise of Skywalker", "Star Wars: The Clone Wars"],
-"gender": 2,
-"species": "wookiee"
+    "name": "Chewbacca",
+    "img": "https://www.latercera.com/resizer/N1271wd5Pm3fAYkW-NJiuq3bhrs=/900x600/smart/arc-anglerfish-arc2-prod-copesa.s3.amazonaws.com/public/5UKNQBDP6VD6FMYCFWXSMHS73U.jpg",
+    "link": "https://www.starwars.com/databank/chewbacca",
+    "movies": [
+        "Star Wars: A New Hope",
+        "Star Wars: The Empire Strikes Back",
+        "Star Wars: Return of the Jedi",
+        "Star Wars: Revenge of the Sith",
+        "Star Wars: The Force Awakens",
+        "Star Wars: The Last Jedi",
+        "Solo: A Star Wars Story",
+        "Star Wars: The Rise of Skywalker",
+        "Star Wars: The Clone Wars"
+    ],
+    "gender": 2,
+    "species": "wookiee"
 },
 {
-"name": "Wilhuff Tarkin",
-"img": "https://im.ziffdavisinternational.com/ign_latam/screenshot/default/468px-tarktl_mwyw.jpg",
-"link":"https://www.starwars.com/databank/grand-moff-tarkin",
-"movies": ["Star Wars: A New Hope", "Star Wars: Revenge of the Sith", "Rogue One: A Star Wars Story", "Star Wars Rebels", "Star Wars: The Clone Wars", "Star Wars: The Bad Batch"],
-"gender": 2,
-"species": "human"
+    "name": "Wilhuff Tarkin",
+    "img": "https://im.ziffdavisinternational.com/ign_latam/screenshot/default/468px-tarktl_mwyw.jpg",
+    "link": "https://www.starwars.com/databank/grand-moff-tarkin",
+    "movies": ["Star Wars: A New Hope", "Star Wars: Revenge of the Sith", "Rogue One: A Star Wars Story", "Star Wars Rebels", "Star Wars: The Clone Wars", "Star Wars: The Bad Batch"],
+    "gender": 2,
+    "species": "human"
 },
 {
-"name": "Owen Lars",
-"img": "https://lumiere-a.akamaihd.net/v1/images/databank_owenlars_01_169_effce0f8.jpeg?region=0%2C0%2C1560%2C878&width=768",
-"link":"https://www.starwars.com/databank/owen-lars",
-"movies": ["Star Wars: A New Hope", "Star Wars: Attack of the Clones", "Star Wars: Revenge of the Sith"],
-"gender": 2,
-"species": "human"
+    "name": "Owen Lars",
+    "img": "https://lumiere-a.akamaihd.net/v1/images/databank_owenlars_01_169_effce0f8.jpeg?region=0%2C0%2C1560%2C878&width=768",
+    "link": "https://www.starwars.com/databank/owen-lars",
+    "movies": ["Star Wars: A New Hope", "Star Wars: Attack of the Clones", "Star Wars: Revenge of the Sith"],
+    "gender": 2,
+    "species": "human"
 },
 {
-"name": "Greedo",
-"img": "https://lumiere-a.akamaihd.net/v1/images/databank_greedo_01_169_3e4b96ef.jpeg?region=0%2C0%2C1560%2C878&width=768",
-"link":"https://www.starwars.com/databank/greedo",
-"movies": ["Star Wars: A New Hope", "Star Wars: The Clone Wars"],
-"gender": 2,
-"species": "rodian"
+    "name": "Greedo",
+    "img": "https://lumiere-a.akamaihd.net/v1/images/databank_greedo_01_169_3e4b96ef.jpeg?region=0%2C0%2C1560%2C878&width=768",
+    "link": "https://www.starwars.com/databank/greedo",
+    "movies": ["Star Wars: A New Hope", "Star Wars: The Clone Wars"],
+    "gender": 2,
+    "species": "rodian"
 },
 {
-"name": "Leesub Sirln",
-"img": "https://static.wikia.nocookie.net/starwarscardtrader/images/1/1f/LeesubSirln-BaseSeries3-2016-Front.jpg/revision/latest/top-crop/width/360/height/450?cb=20200516110121",
-"link":"https://starwars.fandom.com/es/wiki/Leesub_Sirln",
-"movies": ["Star Wars: A New Hope"],
-"gender": 1,
-"species": "qiraash"
+    "name": "Leesub Sirln",
+    "img": "https://static.wikia.nocookie.net/starwarscardtrader/images/1/1f/LeesubSirln-BaseSeries3-2016-Front.jpg/revision/latest/top-crop/width/360/height/450?cb=20200516110121",
+    "link": "https://starwars.fandom.com/es/wiki/Leesub_Sirln",
+    "movies": ["Star Wars: A New Hope"],
+    "gender": 1,
+    "species": "qiraash"
 },
 {
-"name": "Chall Bekan",
-"img": "https://static.wikia.nocookie.net/starwars/images/d/d2/ChallBekan-CCG.png/revision/latest?cb=20120605041157",
-"link":"https://starwars.fandom.com/es/wiki/Chall_Bekan",
-"movies": ["Star Wars: A New Hope"],
-"gender": 2,
-"species": "morseeriano"
+    "name": "Chall Bekan",
+    "img": "https://static.wikia.nocookie.net/starwars/images/d/d2/ChallBekan-CCG.png/revision/latest?cb=20120605041157",
+    "link": "https://starwars.fandom.com/es/wiki/Chall_Bekan",
+    "movies": ["Star Wars: A New Hope"],
+    "gender": 2,
+    "species": "morseeriano"
 },
 {
-"name": "Garouf Lafoe",
-"img": "https://static.wikia.nocookie.net/starwars/images/b/b1/Garouf-lafoe.png/revision/latest/scale-to-width-down/350?cb=20130318032251",
-"link":"https://starwars.fandom.com/wiki/Garouf_Lafoe",
-"movies": ["Star Wars: A New Hope"],
-"gender": 2,
-"species": "human"
+    "name": "Garouf Lafoe",
+    "img": "https://static.wikia.nocookie.net/starwars/images/b/b1/Garouf-lafoe.png/revision/latest/scale-to-width-down/350?cb=20130318032251",
+    "link": "https://starwars.fandom.com/wiki/Garouf_Lafoe",
+    "movies": ["Star Wars: A New Hope"],
+    "gender": 2,
+    "species": "human"
 },
 {
-"name": "Takeel",
-"img": "http://pm1.narvii.com/6037/0260845eb82f2eaeda5b38a09ba7be6956f66261_00.jpg",
-"link":"https://starwars.fandom.com/wiki/Takeel",
-"movies": ["Star Wars: A New Hope"],
-"gender": 2,
-"species": "snivvian"
+    "name": "Takeel",
+    "img": "http://pm1.narvii.com/6037/0260845eb82f2eaeda5b38a09ba7be6956f66261_00.jpg",
+    "link": "https://starwars.fandom.com/wiki/Takeel",
+    "movies": ["Star Wars: A New Hope"],
+    "gender": 2,
+    "species": "snivvian"
 },
 {
-"name": "Wedge Antilles",
-"img": "https://lumiere-a.akamaihd.net/v1/images/databank_wedgeantilles_01_169_b8185dce.jpeg?region=0%2C0%2C1560%2C878&width=768",
-"link":"https://www.starwars.com/databank/wedge-antilles",
-"movies": ["Star Wars: A New Hope", "Star Wars: The Empire Strikes Back", "Star Wars: Return of the Jedi", "Star Wars: The Rise of Skywalker", "Star Wars Rebels"],
-"gender": 2,
-"species": "human"
+    "name": "Wedge Antilles",
+    "img": "https://lumiere-a.akamaihd.net/v1/images/databank_wedgeantilles_01_169_b8185dce.jpeg?region=0%2C0%2C1560%2C878&width=768",
+    "link": "https://www.starwars.com/databank/wedge-antilles",
+    "movies": ["Star Wars: A New Hope", "Star Wars: The Empire Strikes Back", "Star Wars: Return of the Jedi", "Star Wars: The Rise of Skywalker", "Star Wars Rebels"],
+    "gender": 2,
+    "species": "human"
 },
 {
-"name": "Wioslea",
-"img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRxdklip40YW9KEOQfvo_KXl3u2p7siB5IWg&usqp=CAU",
-"link":"https://starwars.fandom.com/wiki/Wioslea",
-"movies": ["Star Wars: A New Hope"],
-"gender": 1,
-"species": "vuvrian"
+    "name": "Wioslea",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRxdklip40YW9KEOQfvo_KXl3u2p7siB5IWg&usqp=CAU",
+    "link": "https://starwars.fandom.com/wiki/Wioslea",
+    "movies": ["Star Wars: A New Hope"],
+    "gender": 1,
+    "species": "vuvrian"
 },
 {
-"name": "Tawss Khaa",
-"img": "https://static.wikia.nocookie.net/starwars/images/5/5a/MosepBinneed.jpg/revision/latest?cb=20191117200619",
-"link":"https://starwars.fandom.com/wiki/Tawss_Khaa",
-"movies": ["Star Wars: A New Hope"],
-"gender": 3,
-"species": "nimbanel"
+    "name": "Tawss Khaa",
+    "img": "https://static.wikia.nocookie.net/starwars/images/5/5a/MosepBinneed.jpg/revision/latest?cb=20191117200619",
+    "link": "https://starwars.fandom.com/wiki/Tawss_Khaa",
+    "movies": ["Star Wars: A New Hope"],
+    "gender": 3,
+    "species": "nimbanel"
 },
 {
-"name": "Swilla Corey",
-"img": "https://static.wikia.nocookie.net/starwars/images/1/1b/SwillaCorey1.jpg/revision/latest?cb=20050820090427",
-"link":"https://starwars.fandom.com/wiki/Swilla_Corey",
-"movies": ["Star Wars: A New Hope"],
-"gender": 1,
-"species": "human"
+    "name": "Swilla Corey",
+    "img": "https://static.wikia.nocookie.net/starwars/images/1/1b/SwillaCorey1.jpg/revision/latest?cb=20050820090427",
+    "link": "https://starwars.fandom.com/wiki/Swilla_Corey",
+    "movies": ["Star Wars: A New Hope"],
+    "gender": 1,
+    "species": "human"
 },
 {
-"name": "Jabba The Hutt",
-"img": "https://lumiere-a.akamaihd.net/v1/images/Jabba-The-Hutt_b5a08a70.jpeg?region=0%2C0%2C1200%2C675&width=768",
-"link":"https://www.starwars.com/databank/jabba-the-hutt",
-"movies": ["Star Wars: A New Hope", "Star Wars: Return of the Jedi", "Star Wars: The Phantom Menace", "Star Wars: The Clone Wars"],
-"gender": 2,
-"species": "hutt"
+    "name": "Jabba The Hutt",
+    "img": "https://lumiere-a.akamaihd.net/v1/images/Jabba-The-Hutt_b5a08a70.jpeg?region=0%2C0%2C1200%2C675&width=768",
+    "link": "https://www.starwars.com/databank/jabba-the-hutt",
+    "movies": ["Star Wars: A New Hope", "Star Wars: Return of the Jedi", "Star Wars: The Phantom Menace", "Star Wars: The Clone Wars"],
+    "gender": 2,
+    "species": "hutt"
 },
 {
-"name": "Jek Porkins",
-"img": "https://lumiere-a.akamaihd.net/v1/images/jek-porkins-main-image_0b8d2d13.jpeg?region=0%2C0%2C1280%2C721&width=768",
-"link":"https://www.starwars.com/databank/jek-porkins",
-"movies": ["Star Wars: A New Hope"],
-"gender": 2,
-"species": "human"
+    "name": "Jek Porkins",
+    "img": "https://lumiere-a.akamaihd.net/v1/images/jek-porkins-main-image_0b8d2d13.jpeg?region=0%2C0%2C1280%2C721&width=768",
+    "link": "https://www.starwars.com/databank/jek-porkins",
+    "movies": ["Star Wars: A New Hope"],
+    "gender": 2,
+    "species": "human"
 },
 {
-"name": "Nabrun Leids",
-"img": "https://static.wikia.nocookie.net/esstarwars/images/2/23/Moorseerian.png/revision/latest/scale-to-width-down/350?cb=20200912012335",
-"link":"https://starwars.fandom.com/es/wiki/Nabrun_Leids",
-"movies": ["Star Wars: A New Hope"],
-"gender": 2,
-"species": "morseeriano"
+    "name": "Nabrun Leids",
+    "img": "https://static.wikia.nocookie.net/esstarwars/images/2/23/Moorseerian.png/revision/latest/scale-to-width-down/350?cb=20200912012335",
+    "link": "https://starwars.fandom.com/es/wiki/Nabrun_Leids",
+    "movies": ["Star Wars: A New Hope"],
+    "gender": 2,
+    "species": "morseeriano"
 },
 {
-"name": "Djas Puhr",
-"img": "https://static.wikia.nocookie.net/esstarwars/images/3/38/Djas_puhr.jpg/revision/latest/top-crop/width/360/height/450?cb=20110625023018",
-"link":"https://starwars.fandom.com/es/wiki/Djas_Puhr",
-"movies": ["Star Wars: A New Hope"],
-"gender": 2,
-"species": "sakiyano"
+    "name": "Djas Puhr",
+    "img": "https://static.wikia.nocookie.net/esstarwars/images/3/38/Djas_puhr.jpg/revision/latest/top-crop/width/360/height/450?cb=20110625023018",
+    "link": "https://starwars.fandom.com/es/wiki/Djas_Puhr",
+    "movies": ["Star Wars: A New Hope"],
+    "gender": 2,
+    "species": "sakiyano"
 },
 {
-"name": "Sai'torr Kal Fas",
-"img": "https://static.wikia.nocookie.net/esstarwars/images/1/13/Saitorr-kal-fas.jpg/revision/latest/scale-to-width-down/260?cb=20080909121957",
-"link":"https://starwars.fandom.com/es/wiki/Sai%27torr_Kal_Fas",
-"movies": ["Star Wars: A New Hope"],
-"gender": 1,
-"species": "saurin"
+    "name": "Sai'torr Kal Fas",
+    "img": "https://static.wikia.nocookie.net/esstarwars/images/1/13/Saitorr-kal-fas.jpg/revision/latest/scale-to-width-down/260?cb=20080909121957",
+    "link": "https://starwars.fandom.com/es/wiki/Sai%27torr_Kal_Fas",
+    "movies": ["Star Wars: A New Hope"],
+    "gender": 1,
+    "species": "saurin"
 },
 {
-"name": "Beru Lars",
-"img": "https://lumiere-a.akamaihd.net/v1/images/databank_berulars_01_169_68101518.jpeg?region=0%2C0%2C1560%2C878&width=768",
-"link":"https://www.starwars.com/databank/beru-lars",
-"movies": ["Star Wars: A New Hope", "Star Wars: Attack of the Clones", "Star Wars: Revenge of the Sith"],
-"gender": 1,
-"species": "human"
+    "name": "Beru Lars",
+    "img": "https://lumiere-a.akamaihd.net/v1/images/databank_berulars_01_169_68101518.jpeg?region=0%2C0%2C1560%2C878&width=768",
+    "link": "https://www.starwars.com/databank/beru-lars",
+    "movies": ["Star Wars: A New Hope", "Star Wars: Attack of the Clones", "Star Wars: Revenge of the Sith"],
+    "gender": 1,
+    "species": "human"
 },
 {
-"name": "Stormtroopers",
-"img": "https://i0.wp.com/codigoespagueti.com/wp-content/uploads/2021/02/stormtroopers-star-wars.jpg?resize=1280%2C720&quality=80&ssl=1",
-"link":"https://www.starwars.com/databank/stormtroopers",
-"movies": ["Star Wars: A New Hope", "Star Wars: The Empire Strikes Back", "Star Wars: Return of the Jedi", "Rogue One: A Star Wars Story", "Solo: A Star Wars Story", "Star Wars Rebels", "The Mandalorian"],
-"gender": 3,
-"species": "human"
+    "name": "Stormtroopers",
+    "img": "https://i0.wp.com/codigoespagueti.com/wp-content/uploads/2021/02/stormtroopers-star-wars.jpg?resize=1280%2C720&quality=80&ssl=1",
+    "link": "https://www.starwars.com/databank/stormtroopers",
+    "movies": ["Star Wars: A New Hope", "Star Wars: The Empire Strikes Back", "Star Wars: Return of the Jedi", "Rogue One: A Star Wars Story", "Solo: A Star Wars Story", "Star Wars Rebels", "The Mandalorian"],
+    "gender": 3,
+    "species": "human"
 },
 {
-"name": "Boshek",
-"img": "https://lumiere-a.akamaihd.net/v1/images/boshek-main-image_f7900f5e.jpeg?region=252%2C0%2C1175%2C661&width=768",
-"link":"https://www.starwars.com/databank/boshek",
-"movies": ["Star Wars: A New Hope"],
-"gender": 2,
-"species": "human"
+    "name": "Boshek",
+    "img": "https://lumiere-a.akamaihd.net/v1/images/boshek-main-image_f7900f5e.jpeg?region=252%2C0%2C1175%2C661&width=768",
+    "link": "https://www.starwars.com/databank/boshek",
+    "movies": ["Star Wars: A New Hope"],
+    "gender": 2,
+    "species": "human"
 },
 {
-"name": "Garindan",
-"img": "https://swrpggm.com/wp-content/uploads/2020/01/gan.png",
-"link":"https://www.starwars.com/databank/garindan",
-"movies": ["Star Wars: A New Hope"],
-"gender": 3,
-"species": "kubaz"
+    "name": "Garindan",
+    "img": "https://swrpggm.com/wp-content/uploads/2020/01/gan.png",
+    "link": "https://www.starwars.com/databank/garindan",
+    "movies": ["Star Wars: A New Hope"],
+    "gender": 3,
+    "species": "kubaz"
 },
 {
-"name": "Rycar Ryjerd",
-"img": "https://static.wikia.nocookie.net/starwars/images/b/bf/Rycar-ryjerd.jpg/revision/latest/top-crop/width/360/height/360?cb=20060313191033",
-"link":"https://starwars.fandom.com/wiki/Rycar_Ryjerd",
-"movies": ["Star Wars: A New Hope"],
-"gender": 2,
-"species": "bimm"
+    "name": "Rycar Ryjerd",
+    "img": "https://static.wikia.nocookie.net/starwars/images/b/bf/Rycar-ryjerd.jpg/revision/latest/top-crop/width/360/height/360?cb=20060313191033",
+    "link": "https://starwars.fandom.com/wiki/Rycar_Ryjerd",
+    "movies": ["Star Wars: A New Hope"],
+    "gender": 2,
+    "species": "bimm"
 },
 {
-"name": "Cassio Tagge",
-"img": "https://lumiere-a.akamaihd.net/v1/images/general-tagge-main-image_d9443d72.jpeg?region=0%2C0%2C1170%2C657&width=768",
-"link":"https://www.starwars.com/databank/general-tagge",
-"movies": ["Star Wars: A New Hope"],
-"gender": 2,
-"species": "human"
+    "name": "Cassio Tagge",
+    "img": "https://lumiere-a.akamaihd.net/v1/images/general-tagge-main-image_d9443d72.jpeg?region=0%2C0%2C1170%2C657&width=768",
+    "link": "https://www.starwars.com/databank/general-tagge",
+    "movies": ["Star Wars: A New Hope"],
+    "gender": 2,
+    "species": "human"
 },
 {
-"name": "Del Goren",
-"img": "https://static.wikia.nocookie.net/starwars/images/4/4c/Delgoren.png/revision/latest?cb=20130303151840",
-"link":"https://starwars.fandom.com/es/wiki/Del_Goren",
-"movies": ["Star Wars: A New Hope"],
-"gender": 2,
-"species": "human"
+    "name": "Del Goren",
+    "img": "https://static.wikia.nocookie.net/starwars/images/4/4c/Delgoren.png/revision/latest?cb=20130303151840",
+    "link": "https://starwars.fandom.com/es/wiki/Del_Goren",
+    "movies": ["Star Wars: A New Hope"],
+    "gender": 2,
+    "species": "human"
 },
 {
-"name": "Admiral Motti",
-"img": "https://lumiere-a.akamaihd.net/v1/images/databank_admiralmotti_01_169_f01d2570.jpeg?region=0%2C0%2C1560%2C878&width=768",
-"link":"https://www.starwars.com/databank/admiral-motti",
-"movies": ["Star Wars: A New Hope"],
-"gender": 2,
-"species": "human"
+    "name": "Admiral Motti",
+    "img": "https://lumiere-a.akamaihd.net/v1/images/databank_admiralmotti_01_169_f01d2570.jpeg?region=0%2C0%2C1560%2C878&width=768",
+    "link": "https://www.starwars.com/databank/admiral-motti",
+    "movies": ["Star Wars: A New Hope"],
+    "gender": 2,
+    "species": "human"
 },
 {
-"name": "Jon Vander",
-"img": "https://lumiere-a.akamaihd.net/v1/images/jon-dutch-vander_ed24f84e.jpeg?region=0%2C84%2C733%2C412",
-"link":"https://www.starwars.com/databank/jon-dutch-vander",
-"movies": ["Star Wars: A New Hope", "Star Wars Rebels"],
-"gender": 2,
-"species": "human"
+    "name": "Jon Vander",
+    "img": "https://lumiere-a.akamaihd.net/v1/images/jon-dutch-vander_ed24f84e.jpeg?region=0%2C84%2C733%2C412",
+    "link": "https://www.starwars.com/databank/jon-dutch-vander",
+    "movies": ["Star Wars: A New Hope", "Star Wars Rebels"],
+    "gender": 2,
+    "species": "human"
 },
 {
-"name": "Wuher",
-"img": "https://lumiere-a.akamaihd.net/v1/images/wuher-main-image_883bdea2.jpeg?region=0%2C44%2C800%2C450&width=768",
-"link":"https://www.starwars.com/databank/wuher",
-"movies": ["Star Wars: A New Hope"],
-"gender": 2,
-"species": "human"
+    "name": "Wuher",
+    "img": "https://lumiere-a.akamaihd.net/v1/images/wuher-main-image_883bdea2.jpeg?region=0%2C44%2C800%2C450&width=768",
+    "link": "https://www.starwars.com/databank/wuher",
+    "movies": ["Star Wars: A New Hope"],
+    "gender": 2,
+    "species": "human"
 },
 {
-"name": "Garven Dreis",
-"img": "https://lumiere-a.akamaihd.net/v1/images/garven-dreis_efe9195b.jpeg?region=0%2C0%2C800%2C451&width=768",
-"link":"https://www.starwars.com/databank/garven-dreis",
-"movies": ["Star Wars: A New Hope"],
-"gender": 2,
-"species": "human"
+    "name": "Garven Dreis",
+    "img": "https://lumiere-a.akamaihd.net/v1/images/garven-dreis_efe9195b.jpeg?region=0%2C0%2C800%2C451&width=768",
+    "link": "https://www.starwars.com/databank/garven-dreis",
+    "movies": ["Star Wars: A New Hope"],
+    "gender": 2,
+    "species": "human"
 },
 {
-"name": "Pol Treidum",
-"img": "https://static.wikia.nocookie.net/starwars/images/b/b7/PolTreidumHS-ANH.png/revision/latest/scale-to-width-down/500?cb=20130221053828",
-"link":"https://starwars.fandom.com/wiki/Pol_Treidum",
-"movies": ["Star Wars: A New Hope"],
-"gender": 2,
-"species": "human"
+    "name": "Pol Treidum",
+    "img": "https://static.wikia.nocookie.net/starwars/images/b/b7/PolTreidumHS-ANH.png/revision/latest/scale-to-width-down/500?cb=20130221053828",
+    "link": "https://starwars.fandom.com/wiki/Pol_Treidum",
+    "movies": ["Star Wars: A New Hope"],
+    "gender": 2,
+    "species": "human"
 },
 {
-"name": "Jan Dodonna",
-"img": "https://lumiere-a.akamaihd.net/v1/images/databank_generaldodonna_01_169_d3a64fe4.jpeg?region=4%2C0%2C1561%2C878&width=768",
-"link":"https://www.starwars.com/databank/jan-dodonna",
-"movies": ["Star Wars: A New Hope", "Rogue One: A Star Wars Story", "Star Wars Rebels"],
-"gender": 2,
-"species": "human"
+    "name": "Jan Dodonna",
+    "img": "https://lumiere-a.akamaihd.net/v1/images/databank_generaldodonna_01_169_d3a64fe4.jpeg?region=4%2C0%2C1561%2C878&width=768",
+    "link": "https://www.starwars.com/databank/jan-dodonna",
+    "movies": ["Star Wars: A New Hope", "Rogue One: A Star Wars Story", "Star Wars Rebels"],
+    "gender": 2,
+    "species": "human"
 },
 {
-"name": "Ponda Baba",
-"img": "https://lumiere-a.akamaihd.net/v1/images/ponda-baba-main-image_5addfeb7.jpeg?region=33%2C0%2C1454%2C818&width=768",
-"link":"https://www.starwars.com/databank/ponda-baba",
-"movies": ["Star Wars: A New Hope", "Rogue One: A Star Wars Story"],
-"gender": 2,
-"species": "aqualish"
+    "name": "Ponda Baba",
+    "img": "https://lumiere-a.akamaihd.net/v1/images/ponda-baba-main-image_5addfeb7.jpeg?region=33%2C0%2C1454%2C818&width=768",
+    "link": "https://www.starwars.com/databank/ponda-baba",
+    "movies": ["Star Wars: A New Hope", "Rogue One: A Star Wars Story"],
+    "gender": 2,
+    "species": "aqualish"
 },
 {
-"name": "Biggs Darklighter",
-"img": "https://lumiere-a.akamaihd.net/v1/images/image_606ff7f7.jpeg?region=0%2C0%2C1560%2C878&width=768",
-"link":"https://www.starwars.com/databank/biggs-darklighter",
-"movies": ["Star Wars: A New Hope"],
-"gender": 2,
-"species": "human"
+    "name": "Biggs Darklighter",
+    "img": "https://lumiere-a.akamaihd.net/v1/images/image_606ff7f7.jpeg?region=0%2C0%2C1560%2C878&width=768",
+    "link": "https://www.starwars.com/databank/biggs-darklighter",
+    "movies": ["Star Wars: A New Hope"],
+    "gender": 2,
+    "species": "human"
 },
 {
-"name": "Brea Tonnika",
-"img": "https://static.wikia.nocookie.net/starwars/images/8/81/Tonnika1.jpg/revision/latest?cb=20051204120600",
-"link":"https://starwars.fandom.com/wiki/Brea_Tonnika",
-"movies": ["Star Wars: A New Hope"],
-"gender": 1,
-"species": "kiffar"
+    "name": "Brea Tonnika",
+    "img": "https://static.wikia.nocookie.net/starwars/images/8/81/Tonnika1.jpg/revision/latest?cb=20051204120600",
+    "link": "https://starwars.fandom.com/wiki/Brea_Tonnika",
+    "movies": ["Star Wars: A New Hope"],
+    "gender": 1,
+    "species": "kiffar"
 },
 {
-"name": "Vanden Willard",
-"img": "https://pm1.narvii.com/7639/f6c426cf40d811691381d5a55cae2887914ec8ecr1-534-359v2_hq.jpg",
-"link":"https://starwars.fandom.com/es/wiki/Vanden_Willard",
-"movies": ["Star Wars: A New Hope"],
-"gender": 2,
-"species": "human"
+    "name": "Vanden Willard",
+    "img": "https://pm1.narvii.com/7639/f6c426cf40d811691381d5a55cae2887914ec8ecr1-534-359v2_hq.jpg",
+    "link": "https://starwars.fandom.com/es/wiki/Vanden_Willard",
+    "movies": ["Star Wars: A New Hope"],
+    "gender": 2,
+    "species": "human"
 },
 {
-"name": "Senni Tonnika",
-"img": "https://static.wikia.nocookie.net/starwars/images/2/2b/Shada_Dukal.jpg/revision/latest/top-crop/width/360/height/360?cb=20070904234602",
-"link":"https://starwars.fandom.com/wiki/Senni_Tonnika",
-"movies": ["Star Wars: A New Hope"],
-"gender": 1,
-"species": "kiffar"
-},
-
+    "name": "Senni Tonnika",
+    "img": "https://static.wikia.nocookie.net/starwars/images/2/2b/Shada_Dukal.jpg/revision/latest/top-crop/width/360/height/360?cb=20070904234602",
+    "link": "https://starwars.fandom.com/wiki/Senni_Tonnika",
+    "movies": ["Star Wars: A New Hope"],
+    "gender": 1,
+    "species": "kiffar"
+}
