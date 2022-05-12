@@ -128,6 +128,85 @@
     "gender": 2,
     "species": "wookiee"
 },
+ {
+    "name": "Yoda",
+    "img": "https://lumiere-a.akamaihd.net/v1/images/Yoda-Retina_2a7ecc26.jpeg?region=0%2C0%2C1536%2C864&width=960",
+    "link": "https://www.starwars.com/databank/yoda",
+    "movies": [
+        "Star Wars: A New Hope",
+        "The Empires Strikes Back",
+        "The Phantom Menace",
+        "Star Wars Rebels",
+        "Star Wars: Return of the Jedi",
+        "Star Wars: Revenge of the Sith",
+        "Star Wars: The Clone Wars"
+    ],
+    "gender": 2,
+    "species": "unknow"
+},
+ {
+    "name": "Qui-Gon Jinn",
+    "img": "https://lumiere-a.akamaihd.net/v1/images/Qui-Gon-Jinn_d89416e8.jpeg?region=0%2C1%2C1536%2C864&width=960",
+    "link": "https://www.starwars.com/databank/qui-gon-jinn",
+    "movies": [
+        "Star Wars: The Phantom Menace", 
+        "Rogue One: A Star Wars Story", 
+        "Star Wars Rebels",
+        "Star Wars: The Clone Wars"
+    ],
+     "gender": 2,
+     "species": "human"
+ },
+  {
+    "name": "Darth Maul",
+    "img": "https://lumiere-a.akamaihd.net/v1/images/5f3bedd4df463b0001edbfaa-image_4c5d06e6.jpeg?region=192%2C0%2C1152%2C864&width=768",
+    "link": "https://www.starwars.com/databank/darth-maul",
+    "movies": [
+        "The Phantom Menace",
+        "Star Wars: The Clone Wars"
+    ],
+     "gender": 2,
+     "species": "Dathomirian"
+ },
+   {
+    "name": "Padmé Amidala",
+    "img": "https://lumiere-a.akamaihd.net/v1/images/Padme-Amidala_05d50c8a.jpeg?region=0%2C0%2C1536%2C864&width=960",
+    "link": "https://www.starwars.com/databank/padme-amidala",
+    "movies": [
+        "Star Wars: The Phantom Menace", 
+        "Star Wars: Attack of the Clones", 
+        "Star Wars: Revenge of the Sith", 
+        "Star Wars: The Clone Wars"
+    ],
+     "gender": 1,
+     "species": "human"
+ },
+    {
+    "name": "Palpatine",
+    "img": "https://lumiere-a.akamaihd.net/v1/images/image_3b5ee860.jpeg?region=195%2C0%2C1171%2C878&width=768",
+    "link": "https://www.starwars.com/databank/emperor-palpatine-darth-sidious",
+    "movies": [
+        "Star Wars: The Empire Strikes Back", "Star Wars: Return of the Jedi", "Star Wars: The Phantom Menace", "Star Wars: Attack of the Clones", "Star Wars: Revenge of the Sith", "Star Wars: The Rise of Skywalker", "Star Wars: The Clone Wars", "Star Wars Rebels"
+    ],
+     "gender": 2,
+     "species": "human"
+ },
+  {
+    "name": "Obi-Wan Kenobi",
+    "img": "https://starwarsblog.starwars.com/wp-content/uploads/2022/04/Obi-wan-kenobi-quote-quiz-TALL.jpg",
+    "link": "https://www.starwars.com/databank/obi-wan-kenobi",
+    "movies": [
+        "The Empires Strikes Back",
+        "The Phantom Menace",
+        "Star Wars Rebels",
+        "Star Wars: The Attack of the Clones",
+        "Star Wars: Return of the Jedi",
+        "Star Wars: Revenge of the Sith",
+        "Star Wars: The Clone Wars"
+    ],
+    "gender": 2,
+    "species": "human"
+},
 {
     "name": "Wilhuff Tarkin",
     "img": "https://im.ziffdavisinternational.com/ign_latam/screenshot/default/468px-tarktl_mwyw.jpg",
